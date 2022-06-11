@@ -1,2 +1,2 @@
-- ![image](https://user-images.githubusercontent.com/99418972/173177778-19f3ccd9-9c82-456d-bb34-053444ca81a2.png)
- Hi, I’m @Shezan03
+
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jaima Jarnaz, Software Engineer</h1>
