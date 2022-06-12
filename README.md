@@ -2,15 +2,40 @@
   <img width="250" src="https://media0.giphy.com/media/yDvjFZyratv5FXoVRN/giphy.gif">
 </p>
 
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
+<h1 align="center">Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
 <br>
 
+- 📚 Gaduated in Computer Scirnce and Enginering from IUBAT-International University of Business Agriculture and technology.
+- 🌱 Currrenltly improving Javascript.
+- 🧐 Looking forwad to learn JS framework (React.js or Node.js).
+- 💡 Love to explore video games and books.
+
+<br>
+    
 ## 🔧 Technologies & Tools
 
 ---
 
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br>
+
+## 📱 Find me here
+
+---
+
+<a href="https://www.linkedin.com/in/shezan-montakim-bhuiyan-685424209/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.facebook.com/shezanmontakim.sanim/"><img src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
+<a href="https://www.shezanmontakim99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br>
 
@@ -18,9 +43,13 @@
 
 ---
 
-<a href="https://github.com/Shezan03/Shezan03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shezan03&show_icons=true&theme=aura_dark" />
-</a>
-<a href="https://github.com/Shezan03/Shezan03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shezan03&layout=compact&theme=aura_dark" />
+<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shezan03&theme=nord_dark"/>
+</a>&nbsp;
+<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shezan03&theme=nord_dark"/>
+</a>&nbsp;
+<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shezan03&theme=nord_dark"/>
+</a>&nbsp;
+<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shezan03&theme=nord_dark"/>
+</a>&nbsp;
+<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shezan03&theme=nord_dark"/>
 </a>
