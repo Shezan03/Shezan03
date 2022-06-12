@@ -2,13 +2,13 @@
   <img width="250" src="https://media0.giphy.com/media/yDvjFZyratv5FXoVRN/giphy.gif">
 </p>
 
-<h1 align="center">Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
+<h1 align="center">Hi there,<img width="3%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
 <br>
 
-- 📚 Gaduated in Computer Scirnce and Enginering from IUBAT-International University of Business Agriculture and technology.
-- 🌱 Currrenltly improving Javascript.
-- 🧐 Looking forwad to learn JS framework (React.js or Node.js).
-- 💡 Love to explore video games and books.
+<p > 📚 Gaduated in Computer Scirnce and Enginering from IUBAT-International <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Business Agriculture and technology.<br>
+🌱 Currrenltly improving Javascript.<br>
+🧐 Looking forwad to learn JS framework (React.js or Node.js).<br>
+💡 Love to explore video games and books.
 
 <br>
     
@@ -29,13 +29,13 @@
 
 <br>
 
-## 📱 Find me here
+## 🌐 Find me here
 
 ---
 
 <a href="https://www.linkedin.com/in/shezan-montakim-bhuiyan-685424209/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://www.facebook.com/shezanmontakim.sanim/"><img src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
-<a href="https://www.shezanmontakim99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/shezanmontakim.sanim/"><img src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
+📱 Contact me: shezanmontakim99@gmail.com
 
 <br>
 
