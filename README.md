@@ -52,4 +52,6 @@
 <a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shezan03&theme=nord_dark"/>
 </a>&nbsp;
 <a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shezan03&theme=nord_dark"/>
+</a>&nbsp;
+<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shezan03&theme=nord"/>
 </a>
