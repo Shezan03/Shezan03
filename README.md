@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://media0.giphy.com/media/yDvjFZyratv5FXoVRN/giphy.gif">
+  <img width="250" src="https://media0.giphy.com/media/QWRTFvymri1XABdEFA/giphy.gif">
 </p>
 
 <h1 align="center">Hi there,<img width="8%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
@@ -55,3 +55,9 @@
 </a>&nbsp;
 <a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shezan03&theme=nord"/>
 </a>
+
+<!-- https://media1.giphy.com/media/6gs0IRTrenkoULUIW2/giphy.gif?cid=790b7611068aefb5bc2530f23148628aa726bcb6adc03718&rid=giphy.gif&ct=s -->
+
+<!-- https://media0.giphy.com/media/QWRTFvymri1XABdEFA/giphy.gif -->
+
+<!-- https://media0.giphy.com/media/yDvjFZyratv5FXoVRN/giphy.gif -->
