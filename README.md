@@ -2,7 +2,7 @@
   <img width="250" src="https://media0.giphy.com/media/QWRTFvymri1XABdEFA/giphy.gif">
 </p>
 
-<h1 align="center">Hi there,<img width="8%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
+<h1 align="justify">Hi there,<img width="8%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
 <br>
 
 <p align="center"> 📚 Gaduated in Computer Science and Enginering from IUBAT-International <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Business Agriculture and technology.<br>
