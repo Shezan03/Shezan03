@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://media0.giphy.com/media/QWRTFvymri1XABdEFA/giphy.gif">
+  <img width="65%" src="Shezan03.gif">
 </p>
 
 <h1 align="center">Hi there,<img width="8%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
