@@ -46,18 +46,16 @@
 
 <a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shezan03&theme=nord_dark"/>
 </a>&nbsp;
-<!-- <a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shezan03&theme=nord_dark"/>
-</a>&nbsp;
-<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shezan03&theme=nord_dark"/>
-</a>&nbsp; -->
 <a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shezan03&theme=nord_dark"/>
 </a>&nbsp;
 <a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shezan03&theme=nord_dark"/>
 </a>&nbsp;
-<a href="https://github.com/Shezan03/Shezan03"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=shezan03&theme=nord"/>
+<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shezan03&theme=nord_dark"/>
 </a>&nbsp;
-<a href="https://github.com/Shezan03/Shezan03"><img align="center" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shezan03&theme=nord"/>
-</a>
+<a href="https://github.com/Shezan03/Shezan03"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shezan03&theme=nord_dark"/>
+</a>&nbsp;
+
+
 
 <!-- https://media1.giphy.com/media/6gs0IRTrenkoULUIW2/giphy.gif?cid=790b7611068aefb5bc2530f23148628aa726bcb6adc03718&rid=giphy.gif&ct=s -->
 
