@@ -1,13 +1,15 @@
 <p align="center">
-  <img width="90%" height="auto" src="shezan03.gif">
+  <img height="auto" src="shezan03v2.gif">
 </p>
 
-<h1 align="center">Hi there,<img width="8%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Shezan Montakim Bhuiyan, <br> Software Engineer</h1>
 <br>
 
-<p align="justify"> 📚 Graduated in Computer Science and Engineering from IUBAT-International University of Business Agriculture and Technology.<br>
+## 🔎 About Me
+
+<p align="justify">
+🎓Graduated in Computer Science and Engineering from IUBAT-International University of Business Agriculture and Technology.<br>
 🌱 Currently improving JavaScript.<br>
-🎯 Looking forward to learn JS framework (React.js/Node.js).<br>
+📚 Looking forward to learn JS framework (React.js/Node.js).<br>
 💡 Love to explore video games and novels</p>
 
 <br>
