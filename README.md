@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="auto" src="shezan03v2.gif">
+  <img width="110%" src="shezan03v2.gif">
 </p>
 
 <br>
@@ -7,7 +7,7 @@
 ## 🔎 About Me
 
 <p align="justify">
-🎓Graduated in Computer Science and Engineering from IUBAT-International University of Business Agriculture and Technology.<br>
+🎓 Graduated in Computer Science and Engineering from IUBAT-International University of Business Agriculture and Technology.<br>
 🌱 Currently improving JavaScript.<br>
 📚 Looking forward to learn JS framework (React.js/Node.js).<br>
 💡 Love to explore video games and novels</p>
