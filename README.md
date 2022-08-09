@@ -1,8 +1,7 @@
 <p align="center">
-  <img width="100%" src="nature03.gif">
+  <img width="100%" src="nature03.v2.gif">
 </p>
 
-<br>
 
 ## 🔎 About Me
 
