@@ -6,8 +6,8 @@
 
 <p align="justify">
 🎓 Graduated in Computer Science and Engineering from IUBAT-International University of Business Agriculture and Technology.<br>
-🌱 Currently improving JavaScript.<br>
-📚 Looking forward to learn JS framework (React.js/Node.js).<br>
+🌱 Currently improving ReactJS.<br>
+📚 Looking forward to learn Redux, NodeJS.<br>
 💡 Love to explore video games and novels</p>
 
 <br>
